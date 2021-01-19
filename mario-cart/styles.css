@@ -1,0 +1,14 @@
+body {
+  background: lightblue;
+  text-align: center;
+}
+
+.wrapper {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+img {
+  transform: rotate(-90deg) translate(-200px, 100px) scale(2);
+}
